@@ -1,4 +1,4 @@
-//import React, { Component } from 'react';
+import React, { Component } from 'react';
 import {Link} from 'react-router-dom';
 import defaultImg from '../images/room-1.jpeg';
 import PropTypes from 'prop-types';
